@@ -47,6 +47,7 @@ Verified 2026-10-31:
 - Picking was simulated by putting generated JPEGs (4000×3000, 3000×4000, 4032×3024) into the file input; stored photos were 2048×1536 / 1536×2048.
 - Checked: empty state; editor text, all four styles, three positions, drag to crop, zoom buttons; save; feed snap and dot rail; edit; delete + Undo; unsaved-changes prompt; Arrange drag reorder, arrow-key reorder with focus kept, Shuffle + Undo; theme switch; reload keeps frames, order and theme; update prompt and Update.
 - Screenshots: `AI Documentation/[Images]/2026_10_31_*.jpg` (synthetic demo photos only).
+- Deployed to https://casperwollesen.github.io/CW.Mindframes/ (GitHub Actions run 41182021840: build and deploy succeeded). The live page loads without console errors, the manifest has name, scope `/CW.Mindframes/` and three icons, and the service worker controls the page after one reload.
 
 Not verified:
 - The real photo picker, HEIC photos, installing to the Home Screen, safe areas and swipe feel on an actual iPhone or Android phone.

@@ -5,6 +5,8 @@ choose a style, and swipe through your frames whenever the day gets too busy.
 
 Everything stays on your phone. No account, no cloud, no tracking. The server only delivers the app.
 
+**Open it:** https://casperwollesen.github.io/CW.Mindframes/ — then add it to your Home Screen.
+
 ## Run locally
 
 Requires Node.js 22.12+ (on Casper's PC: the copy bundled with Visual Studio, see `AGENTS.md`).

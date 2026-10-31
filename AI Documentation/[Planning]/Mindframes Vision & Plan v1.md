@@ -3,7 +3,7 @@
 Documentation ID: `PLANNING-MINDFRAMES-VISION`
 File revision: `2026_10_r1`
 Last reviewed: `2026-10-31`
-Status: Revision 1 (2026-10-31, from the first prompt and the Q1–Q6 answers) — Milestone 1 built and browser-checked (`APP-MINDFRAMES`); not yet committed or on a phone.
+Status: Revision 1 (2026-10-31, from the first prompt and the Q1–Q6 answers) — Milestone 1 built and browser-checked (`APP-MINDFRAMES`), live on GitHub Pages since 2026-10-31; not yet tried on a phone.
 Original prompt: `AI Documentation/[Prompts]/2026_10_31_New_idea_prompt.md`
 Related repositories (inspiration, not dependencies):
 - `C:\Development\GitHub\CW.ShowerTimer` — skeleton (Vite + PWA config, Pages workflow, icon script), sheet/toast patterns, the "lovely to open" bar
@@ -118,7 +118,7 @@ What can go wrong: decoding fails (unsupported format) → toast, nothing stored
 - [x] Typecheck, tests, build; browser check at 375×629 and desktop, dark and light
 
 ### Milestone 2 – On the phone
-- [ ] Commit and push; enable GitHub Pages (owner's go)
+- [x] Commit and push; enable GitHub Pages (owner's go) — https://casperwollesen.github.io/CW.Mindframes/, 2026-10-31
 - [ ] Install on the owner's iPhone; E1 storage survival; check picker, HEIC photos, safe areas and swipe feel
 
 ### Ideas parked (not planned)
