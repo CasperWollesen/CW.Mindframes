@@ -1,0 +1,35 @@
+/* Dark by default: deep ink with a warm sunrise accent. Light is a saved preference. */
+:root {
+  color-scheme: dark;
+  --bg: #0d0e12;
+  --surface: #16171d;
+  --surface2: #1f2028;
+  --border: #2b2c36;
+  --text: #f5f1ea;
+  --muted: #aaa5ae;
+  --faint: #7b7782;
+  --accent: #ffb469;
+  --accent2: #ff7b8a;
+  --accent-text: #2a1404;
+  --soft: #2b2019;
+  --overlay: #05060abf;
+  --shadow: 0 24px 80px #0007;
+  --danger: #ff9b8f;
+}
+:root[data-theme=light] {
+  color-scheme: light;
+  --bg: #f7f2ec;
+  --surface: #fffdf9;
+  --surface2: #efe7dd;
+  --border: #e3d8cb;
+  --text: #251e1a;
+  --muted: #6e645c;
+  --faint: #8b8178;
+  --accent: #c2601f;
+  --accent2: #c43d5c;
+  --accent-text: #fff;
+  --soft: #f8e4d2;
+  --overlay: #2a1d1466;
+  --shadow: 0 24px 80px #4a2e1a26;
+  --danger: #b23b2e;
+}

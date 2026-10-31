@@ -1,0 +1,7 @@
+App/node_modules/
+App/dist/
+App/.vite/
+work/
+*.local
+*.local.json
+.claude/
